@@ -1,0 +1,18 @@
+{
+  "name": "schedule-generator",
+  "version": "0.1.0",
+  "description": "A flexible and user-friendly application for generating and managing schedules",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "schedule",
+    "generator",
+    "planner",
+    "timetable"
+  ],
+  "author": "",
+  "license": "MIT"
+}
